@@ -1,4 +1,4 @@
-package com.diagonalley;
+package com.diagonalley.init;
 
 import java.util.concurrent.atomic.AtomicLong;
 

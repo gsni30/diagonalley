@@ -1,4 +1,4 @@
-package com.diagonalley;
+package com.diagonalley.init;
 
 public class Greeting {
 
