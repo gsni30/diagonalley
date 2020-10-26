@@ -1,6 +1,6 @@
 spring:
-  profiles: test
-  active: test
+  profiles: prod
+  active: prod
 
 
 root:
