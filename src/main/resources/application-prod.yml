@@ -1,0 +1,11 @@
+spring:
+profiles: prod
+active: prod
+
+
+root:
+  postgresConfig:
+    host: ec2-34-232-24-202.compute-1.amazonaws.com
+    user: dofyutsgqygpux
+    password: 3b836b41205fdf2884bc0fa4570a83b3492e579048ce01c4b8a961b67b4a56e1
+    port: 5432
